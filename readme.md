@@ -1,5 +1,5 @@
 # SQL Labs & Project
-### for Databases (6 ECTs) @ KTH.
+### for Databases (6 ECTs) @ KTH, fall 2016. 
 
 ## Lab 1-3 is SQL-queries which solves a given problem.
 
